@@ -1,0 +1,3 @@
+grup,n,medyan_gun,Mann_Whitney_U,p_degeri,effect_size,yorum
+Bırakanlar,163,25.0,21162.0,0.0,0.482,p < 0.001 → Son derece anlamlı
+Kontrol,501,35.0,21162.0,0.0,0.482,p < 0.001 → Son derece anlamlı
