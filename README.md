@@ -23,7 +23,7 @@ OULAD'ın bırakma tarihini gün düzeyinde kaydetmesi kritik bir avantaj sağla
 
 ## Ana Bulgular
 
-<!-- S1 grafiğini buraya ekle: assets/s1_kirilma_dagilimi.png -->
+![S1 Kırılma Dağılımı](assets/s1_kirilma_dagilimi.png)
 
 | Bulgu | Değer |
 |---|---|
@@ -53,7 +53,7 @@ Bu hipotez üç gerekçeyle reddedildi ve yerine **Bandura'nın Öz-Yeterlilik T
 
 ## Metodoloji
 
-<!-- S2 grafiğini buraya ekle: assets/s2_aktivite_kopus_dagilimi.png -->
+![S2 Aktivite Kopuş Dağılımı](assets/s2_aktivite_kopus_dagilimi.png)
 
 ### Pipeline
 
@@ -91,7 +91,7 @@ PELT Algoritması (bireysel kırılma noktası tespiti)
 
 Başarılı öğrencilere, kendi ders/dönemleri için bırakanların **medyan bırakma günü** yapay çapa olarak atandı ve aynı pipeline uygulandı. Bu tasarım, tespit edilen sinyalin bırakanlara özgü olup olmadığını test eder.
 
-<!-- S3 grafiğini buraya ekle: assets/s3_kontrol_grubu_dagilimi.png -->
+![S3 Kontrol Grubu](assets/s3_kontrol_grubu_dagilimi.png)
 
 ---
 
